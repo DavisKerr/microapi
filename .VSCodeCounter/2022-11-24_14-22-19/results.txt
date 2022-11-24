@@ -1,0 +1,54 @@
+Date : 2022-11-24 14:22:19
+Directory : /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi
+Total : 24 files,  1189 codes, 67 comments, 384 blanks, all 1640 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         24 |      1,189 |         67 |        384 |      1,640 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                 | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                    |         24 |      1,189 |         67 |        384 |      1,640 |
+| configuration                                                                                                                        |          4 |        112 |         31 |         36 |        179 |
+| controllers                                                                                                                          |          4 |        222 |         29 |         52 |        303 |
+| filters                                                                                                                              |          2 |        129 |          0 |         48 |        177 |
+| model                                                                                                                                |          7 |        535 |          7 |        179 |        721 |
+| repository                                                                                                                           |          4 |         88 |          0 |         37 |        125 |
+| service                                                                                                                              |          2 |         48 |          0 |         22 |         70 |
++--------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                             | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/MicroapiApplication.java                                | Java     |         55 |          0 |         10 |         65 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/configuration/JwtConfig.java                            | Java     |         34 |          0 |         12 |         46 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/configuration/JwtSecretKey.java                         | Java     |         18 |          0 |          8 |         26 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/configuration/PasswordConfig.java                       | Java     |         12 |          0 |          4 |         16 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/configuration/SecurityConfig.java                       | Java     |         48 |         31 |         12 |         91 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/controllers/GoalController.java                         | Java     |        122 |         29 |         23 |        174 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/controllers/HomeController.java                         | Java     |         21 |          0 |          7 |         28 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/controllers/PostController.java                         | Java     |         23 |          0 |         10 |         33 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/controllers/UserController.java                         | Java     |         56 |          0 |         12 |         68 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/filters/JwtUsernameAndPasswordAuthenticationFilter.java | Java     |         64 |          0 |         20 |         84 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/filters/TokenVerifier.java                              | Java     |         65 |          0 |         28 |         93 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/model/Composite.java                                    | Java     |         23 |          0 |         13 |         36 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/model/Goal.java                                         | Java     |        192 |          0 |         51 |        243 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/model/Post.java                                         | Java     |         86 |          0 |         30 |        116 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/model/Progress.java                                     | Java     |        117 |          0 |         39 |        156 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/model/SecurityUser.java                                 | Java     |         44 |          7 |         16 |         67 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/model/User.java                                         | Java     |         54 |          0 |         21 |         75 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/model/UsernameAndPasswordAuthenticationRequest.java     | Java     |         19 |          0 |          9 |         28 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/repository/GoalRepository.java                          | Java     |         46 |          0 |         13 |         59 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/repository/PostRepository.java                          | Java     |          5 |          0 |          6 |         11 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/repository/ProgressRepository.java                      | Java     |         30 |          0 |         10 |         40 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/repository/UserRepository.java                          | Java     |          7 |          0 |          8 |         15 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/service/JpaUserDetailsService.java                      | Java     |         20 |          0 |         13 |         33 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/service/UserService.java                                | Java     |         28 |          0 |          9 |         37 |
+| Total                                                                                                                                |          |      1,189 |         67 |        384 |      1,640 |
++--------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

@@ -1,0 +1,33 @@
+Date : 2022-11-24 14:22:19
+Directory : /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi
+Total : 6 files,  245 codes, 29 comments, 73 blanks, all 347 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |          6 |        245 |         29 |         73 |        347 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                            | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                               |          6 |        245 |         29 |         73 |        347 |
+| controllers                                                                                                     |          1 |         44 |         29 |          5 |         78 |
+| model                                                                                                           |          3 |        170 |          0 |         57 |        227 |
+| repository                                                                                                      |          2 |         31 |          0 |         11 |         42 |
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                        | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/controllers/GoalController.java    | Java     |         44 |         29 |          5 |         78 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/model/Composite.java               | Java     |         23 |          0 |         13 |         36 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/model/Goal.java                    | Java     |         30 |          0 |          5 |         35 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/model/Progress.java                | Java     |        117 |          0 |         39 |        156 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/repository/GoalRepository.java     | Java     |          1 |          0 |          1 |          2 |
+| /Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/repository/ProgressRepository.java | Java     |         30 |          0 |         10 |         40 |
+| Total                                                                                                           |          |        245 |         29 |         73 |        347 |
++-----------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

@@ -1,0 +1,8 @@
+"filename", "language", "Java", "comment", "blank", "total"
+"/Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/MicroapiApplication.java", "Java", 18, 0, 3, 21
+"/Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/controllers/GoalController.java", "Java", 52, 0, 17, 69
+"/Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/controllers/UserController.java", "Java", 1, 0, -1, 0
+"/Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/model/Goal.java", "Java", 128, 0, 38, 166
+"/Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/model/User.java", "Java", 9, 0, 1, 10
+"/Users/davis/Desktop/SeniorProject/microapi/src/main/java/com/davis/microapi/repository/GoalRepository.java", "Java", 9, 0, 8, 17
+"Total", "-", 217, 0, 66, 283
